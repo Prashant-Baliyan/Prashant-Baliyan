@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/image-photo/concept-futuristic-innovationtechnologyinternet-thingsbusinessman-holding-260nw-1787858606.jpg)]
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lTc-1mLVX4LAdY2IPj3z2c-KkZxspUyof95Q8kS-glKqPLhswW8PZpGfGhTfVIVuv0g&usqp=CAU)
 
 <h1 align="center">Hi 👋, I'm Prashant Baliyan</h1>
 <h3 align="center">An AI researcher with an Artistic touch :-)</h3>
