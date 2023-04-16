@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lTc-1mLVX4LAdY2IPj3z2c-KkZxspUyof95Q8kS-glKqPLhswW8PZpGfGhTfVIVuv0g&usqp=CAU)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGE9rcYxz9-QXTcDI3VyuOe3Nb53i0lesCcaBTijMdn7-a4Hi-6ylzR5QIZNAYbehZ0W0&usqp=CAU)
 
 <h1 align="center">Hi 👋, I'm Prashant Baliyan</h1>
 <h3 align="center">An AI researcher with an Artistic touch :-)</h3>
