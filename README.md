@@ -1,4 +1,6 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGE9rcYxz9-QXTcDI3VyuOe3Nb53i0lesCcaBTijMdn7-a4Hi-6ylzR5QIZNAYbehZ0W0&usqp=CAU)
+<p align="center">
+    <img width="600" height = "200" src="https://www.shutterstock.com/image-photo/concept-futuristic-innovationtechnologyinternet-thingsbusinessman-holding-260nw-1787858606.jpg" alt="Material Bread logo">
+</p>
 
 <h1 align="center">Hi 👋, I'm Prashant Baliyan</h1>
 <h3 align="center">An AI researcher with an Artistic touch :-)</h3>
