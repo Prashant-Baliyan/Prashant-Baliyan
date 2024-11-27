@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/prashantbaliya3" target="blank"><img src="https://img.shields.io/twitter/follow/prashantbaliya3?logo=twitter&style=for-the-badge" alt="prashantbaliya3" /></a> </p>
 
-- 🔭 I’m currently working on **Next Purchase Date Prediction**
+- 🔭 I’m currently working on **Universal Intent Determination System**
 
 - 📫 How to reach me **pbaliyan1992@gmail.com**
 
@@ -18,7 +18,8 @@
 * Machine Learning
 * Deep Learning 
 * Computer vision 
-* Natural Language Processing 
+* Natural Language Processing
+* Generative AI
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
